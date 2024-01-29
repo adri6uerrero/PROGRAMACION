@@ -11,7 +11,6 @@ public class automovil {
 		this.marca = marca;
 		this.modelo = modelo;
 	}
-
 	/* getters y setters */
 	public String getMarca() {
 		return marca;
